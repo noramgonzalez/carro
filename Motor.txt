@@ -1,0 +1,3 @@
+String Serie
+Ing cilindraje
+int peso
