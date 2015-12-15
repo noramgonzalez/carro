@@ -1,4 +1,5 @@
-String Serie
 Ing cilindraje
+String Serie
 int peso
+String tipo
 String marca
