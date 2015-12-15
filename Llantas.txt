@@ -1,0 +1,2 @@
+float diametro
+float marca
